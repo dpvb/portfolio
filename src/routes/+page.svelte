@@ -146,7 +146,7 @@
 					<div class="flex flex-col w-full">
 						<div class="flex justify-between">
 							<p>Capital One</p>
-							<p>2024 - Present</p>
+							<p>Aug 2024 - Present</p>
 						</div>
 						<p class="text-sm text-gray-400">SWE (TDP)</p>
 					</div>
